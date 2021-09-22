@@ -11,3 +11,11 @@
   ```bash
   docker-compose up -d
   ```
+
+3. connect mongodb shell
+
+  ```bash
+  ./connect-mongodb.sh 1
+  ./connect-mongodb.sh 2
+  ./connect-mongodb.sh 3
+  ```
